@@ -1,4 +1,4 @@
-
+# Machine learning-based Language classification of multilingual content written in Bengali.
 Problem Statement
 
 Exponential growth of social media provides platforms for empowering freedom of expression and individual voices. In social media, users express their expression using different languages, such as Bengali and English. But many users use the Bengali alphabet to express other languages such as Bengali, Chakma, Marma, Chittagonian, Sylheti Etc. So that classifying the different lingual contents written in the Bengali alphabet is a challenging task. As far as we know, substantial progress has yet to be made in organizing the multilingual content written in the Bengali alphabet. This project applies modern machine learning models to classify the multilingual contents in the written Bengali alphabet.
